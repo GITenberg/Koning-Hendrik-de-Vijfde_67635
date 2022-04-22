@@ -15,6 +15,9 @@ contributor:
     gutenberg_agent_id: '25415'
     url: http://www.gutenberg.org/2009/agents/25415
     wikipedia: https://nl.wikipedia.org/wiki/Leendert_Burgersdijk
+covers:
+- cover_type: archival
+  image_path: 67635-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Shakespeare, William
@@ -27,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/65
     wikipedia: https://en.wikipedia.org/wiki/William_Shakespeare
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67635#Koning-Hendrik-de-Vijfde
 gutenberg_issued: '2022-03-15'
 identifiers:
   gutenberg: '67635'
